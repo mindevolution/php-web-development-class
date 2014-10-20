@@ -1,0 +1,319 @@
+Olivet University: 大家好 
+
+Olivet University: 请稍等一下志立弟兄 
+
+黄晓明: keyi
+
+Olivet University: 可以 
+
+谢春城: 可以
+
+wangjianrui: 可以
+
+谢春城: 有次次的声音
+
+yangxue: 我这边有杂音 听不清晰 其他人那边怎么样
+
+谢春城: 能听清楚，不过有一点刺耳的声音
+
+志立: 那我们现在说一下这几次大家的学习情况吧
+
+Olivet University: hi 大家有麦克风吗 
+
+谢春城: 恩，我的PHP环境还没配好
+
+yangxue: 我也是没有配置好这个环境
+
+谢春城: 对于WAMP不是太明白是什么意思，还有就是PHP必需在APACH或者IIS上运行是吗
+
+谢春城: 我说话能听见吗
+
+Olivet University: 没有听见 
+
+Olivet University: 需要在这个页面的上面的 “麦克风”小标志 
+
+Olivet University: 点击一下 
+
+Olivet University: 编程绿色的 就可以说话了 
+
+Olivet University: 编程--变成 
+
+谢春城: 能听见吗
+
+谢春城: 我上网查一下我那个问题，可能是电脑系统的问题
+
+谢春城: 好的
+
+wangjianrui: 在
+
+黄晓明: zai
+
+wangjianrui: 但我的麦不好使
+
+wangjianrui: 说不了话
+
+yangxue: 我的是绿色的 可以听见说话吗
+
+谢春城: 弟兄姐妹，大家好！我是春城弟兄，现在主要是负责禧年会的两个网站基督教舞蹈网和敬拜网的更新和发展
+
+yangxue: 我叫杨雪
+
+谢春城: 听不清楚
+
+yangxue: 我叫杨雪，负责长春葡萄园团契，已经毕业1年了
+
+wangjianrui: 大家好：我叫王建锐。 我这边麦不好使，下次准备。我是吉林人。现在在信生服侍
+
+谢春城: 我学习这个课程的目的是希望能够更好的维护我所在事工的网站，并且能够自己编程改版网站
+
+yangxue: 我是计算机毕业的，只是拿了证，没有学习到技术，以前当作压力不想学习，认识神后，想为神而学习，但是最近跟着上课还算会遇到压力。第一节课的作业没有做，因为不懂哪个练习网站怎么用
+
+yangxue: 第二周，是环境没搭好，我自学能力差，老师留下了需要自己去学习的部分，我几乎是不前进的
+
+yangxue: 听课的过程学习很多，对我来说是更清晰了，但是需要练习。我只是单纯的预备自己，吉林省这里的网站还没有落实，也不知道自己是否在这个方面有什么发展和突破，只是想更多学习吧
+
+黄晓明: 我就叫黄晓明，在山西兴晋教会服侍，学习it也是为了搞好各地教会的网站
+
+wangjianrui: 因为，基础为零。我是体育专业。但我现在需要在网络这边工作，所以，学习者堂课。但很痛苦，因为基础太弱了。
+
+谢春城: 好的
+
+志立: http://rj.baidu.com/soft/detail/12489.html?ald
+
+谢春城: 这个我的不行也，我的系统是XP的，不支持
+
+志立: xp不行的话，试一下这个
+
+志立: http://rj.baidu.com/soft/detail/15668.html?ald
+
+谢春城: 恩，好的
+
+yangxue: 恩 好的 
+
+谢春城: 你发的这个链接下载的不对
+
+志立: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=appserv&rsv_enter=1&oq=windowns%20php&inputT=10430&rsv_sug3=19&rsv_sug4=2373&rsv_sug1=19&rsv_sug2=0&bs=XAMPP
+
+志立: 你自己也可以搜一下
+
+志立: AppServ
+
+谢春城: 哦，我看一下
+
+谢春城: 这个安装在任何一个盘都可以吧
+
+Olivet University: 其他人都还在吗 是否在安装？
+
+黄晓明: 在
+
+yangxue: Server name？随便写吗
+
+谢春城: 志力弟兄刚刚发的这个安装需要填写服务名称和邮箱
+
+志立: 是的
+
+谢春城: 邮箱呢
+
+志立: 写一个自己的或者随便写一个
+
+谢春城: root password是指什么
+
+谢春城: for MySQLSever
+
+谢春城: 这个也是随便填吗？后面的Character Sets and Collations是默认的吗
+
+谢春城: 安装完了，不知道对不对
+
+Olivet University: 好的 
+
+Olivet University: 志立弟兄掉线了 请稍等 
+
+yangxue: 已经安装了
+
+Olivet University: 好的 
+
+Olivet University: 其他人呢 
+
+黄晓明: 在呢
+
+志立: 装好之后可以运行一下刚安装的程序
+
+志立: 一般是在左面左下角有一个图标
+
+志立: 点击之后有启动apache,启动mysql数据库的选项
+
+志立: 如果启动成功后
+
+志立: 在浏览器里面输入http://localhost/
+
+志立: 应该可以看到本地页面
+
+志立: 也可以输入http://127.0.0.1/
+
+志立: 和上面是一样的
+
+yangxue: 我的电脑安装后 没有变化
+
+志立: 成功安装了吗？
+
+志立: 安装后需要启动刚安装的程序
+
+志立: 启动之后在浏览器里面输入http://localhost/测试
+
+志立: http://localhost/
+
+谢春城: 在开始菜单没有启动apache,启动mysql数据库的选项
+
+谢春城: 是Apach start吗
+
+志立: 是的
+
+yangxue: 春城弟兄，你启动刚才安装的程序了吗
+
+谢春城: 一个是Control Sever by Manual后面的Apach start和 Mysql start，另一个是Control Sever by Severcis里面的，启动Apach start就弹出一个对话框
+
+谢春城: 再按任意键就没了
+
+志立: 点击Apache start 和 Mysql start
+
+志立: 然后在浏览器里输入http://localhost/
+
+志立: 看是否可以看到一个输出页面
+
+谢春城: 看到的页面我在QQ群里发了
+
+谢春城: 好像不对
+
+志立: 是正确的
+
+谢春城: 哦，可以了是吗
+
+Olivet University: 感谢神  安装结束了吗 
+
+谢春城: 恩，安装早就结束了
+
+Olivet University: 哦 那可以进入下一个阶段 开始上课了吗？ ^^
+
+wangjianrui: root password是指什么
+
+wangjianrui: re
+
+谢春城: 不知道也，怎么使用呢
+
+yangxue: 我没有成功安装，之后再询问一下吧 
+
+志立: root password是数据库的管理账号
+
+志立: C:\AppServ\www
+
+yangxue: 哦
+
+yangxue: 我也有这个
+
+志立: htdoc
+
+谢春城: 是的，有
+
+志立: http://localhost/
+
+志立: www/index.php
+
+志立: <?php phpinfo(); ?>
+
+谢春城: www里面有index.php
+
+志立: phpinfo.php
+
+志立: <?php phpinfo(); 
+
+志立: http://localhost/phpinfo.php
+
+谢春城: 我先创建文本文档再改成phpinfo.php吗
+
+志立: 可以先这样
+
+谢春城: 哦，这个文件也有
+
+志立: 那就自己随便起个名字测试一下吧
+
+志立: 比如 test.php
+
+谢春城: 我在群里发了打开的页面
+
+志立: 是对的
+
+yangxue: 感谢神
+
+志立: 你的本地环境已经配置好了
+
+谢春城: 哦，感谢神
+
+wangjianrui: 没安装上
+
+志立: https://www.apachefriends.org/download.html
+
+yangxue: 这个连接是针对不是 xp系统的电脑是吧
+
+志立: windows都支持
+
+志立: xp,vista,win7
+
+Olivet University: 建锐弟兄在吗 做到哪一步了？
+
+yangxue: 下载下了一个网页，进入后还要继续下载吗？
+
+yangxue: 老师上面的网站是干什么用的啊
+
+志立: 哪个网站？
+
+yangxue: https://www.apachefriends.org/download.html
+
+志立: 这个也是一个php环境的安装包anzhuangbao
+
+志立: 如果已经装好的可以护绿
+
+志立: 忽略
+
+志立: php环境安装视频
+
+志立: 在百度搜索
+
+yangxue: 恩 好的
+
+志立: test.php
+
+志立: <?php phpinfo(); 
+
+志立: http://localhost/phpinfo.php
+
+志立: http://localhost/test.php
+
+志立: variable.php
+
+志立: <?php $a = 1; $b = 2; $c = $a + $b; echo $c;
+
+志立: http://localhost/variable.php
+
+志立: php环境安装视频
+
+志立: appserv
+
+志立: xampp
+
+志立: www, htdoc
+
+谢春城: 恩，好的
+
+yangxue: 谢谢 
+
+wangjianrui: 谢谢  辛苦了
+
+谢春城: 阿们！感谢神！辛苦了！
+
+yangxue: 老师辛苦了 
+
+志立: 肖静姐妹可以简单整理一下上面的文字吗？
+
+志立: 谢谢
+
+志立: 上面的打字记录
